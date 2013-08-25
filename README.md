@@ -18,3 +18,6 @@ Some modules
 npm install
 node server
 ```
+
+PS:
+Use your own twitter configs (consumer_key etc)
